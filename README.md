@@ -1,1 +1,1 @@
-# devops-capstone-project
+[![CI Build](https://github.com/Cxnxr4768/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/Cxnxr4768/devops-capstone-project/actions/workflows/ci-build.yaml)# devops-capstone-project
